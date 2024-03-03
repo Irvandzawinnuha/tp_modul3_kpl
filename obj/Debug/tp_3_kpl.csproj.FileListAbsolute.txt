@@ -1,0 +1,10 @@
+D:\matkul jurusan RPL Tel-u\Semester 4\Praktikum Kontruksi rpl\TP-3\tp_3_kpl\tp_3_kpl\bin\Debug\tp_3_kpl.exe.config
+D:\matkul jurusan RPL Tel-u\Semester 4\Praktikum Kontruksi rpl\TP-3\tp_3_kpl\tp_3_kpl\bin\Debug\tp_3_kpl.exe
+D:\matkul jurusan RPL Tel-u\Semester 4\Praktikum Kontruksi rpl\TP-3\tp_3_kpl\tp_3_kpl\bin\Debug\tp_3_kpl.pdb
+D:\matkul jurusan RPL Tel-u\Semester 4\Praktikum Kontruksi rpl\TP-3\tp_3_kpl\tp_3_kpl\obj\Debug\tp_3_kpl.csproj.AssemblyReference.cache
+D:\matkul jurusan RPL Tel-u\Semester 4\Praktikum Kontruksi rpl\TP-3\tp_3_kpl\tp_3_kpl\obj\Debug\tp_3_kpl.Form1.resources
+D:\matkul jurusan RPL Tel-u\Semester 4\Praktikum Kontruksi rpl\TP-3\tp_3_kpl\tp_3_kpl\obj\Debug\tp_3_kpl.Properties.Resources.resources
+D:\matkul jurusan RPL Tel-u\Semester 4\Praktikum Kontruksi rpl\TP-3\tp_3_kpl\tp_3_kpl\obj\Debug\tp_3_kpl.csproj.GenerateResource.cache
+D:\matkul jurusan RPL Tel-u\Semester 4\Praktikum Kontruksi rpl\TP-3\tp_3_kpl\tp_3_kpl\obj\Debug\tp_3_kpl.csproj.CoreCompileInputs.cache
+D:\matkul jurusan RPL Tel-u\Semester 4\Praktikum Kontruksi rpl\TP-3\tp_3_kpl\tp_3_kpl\obj\Debug\tp_3_kpl.exe
+D:\matkul jurusan RPL Tel-u\Semester 4\Praktikum Kontruksi rpl\TP-3\tp_3_kpl\tp_3_kpl\obj\Debug\tp_3_kpl.pdb
